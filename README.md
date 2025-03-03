@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Nigel </h1>
-<h3 align="center">A Data Analyst from Nairobi,Kenya</h3>
+<h3 align="center">An Ambitious visionary with unwavering dedication from Nairobi,Kenya</h3>
 
 - 🌱 I’m currently learning **Advanced Data Analytics and R-programming**
 
